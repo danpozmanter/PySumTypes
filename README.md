@@ -1,6 +1,6 @@
 # Py Sum Types
 
-![Build Status](https://api.travis-ci.org/danpozmanter/PySumTypes.svg?branch=main&status=unknown)
+![Build Status](https://api.travis-ci.org/danpozmanter/PySumTypes.svg?branch=main&status=unknown) ![PyPi Package](https://img.shields.io/pypi/v/PySumtypes.svg)
 
 **Simple syntax to declare, match, compare, and unwrap sum types for Python**
 
